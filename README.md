@@ -33,6 +33,10 @@ Kulik Victory кресло уже 6 лет, брал на ткани, но мо�
 ### [yamato]
 Kulik System ROYAL вже років з п’ять. Крісло подобається.
 
+### [zdv]
+[Novy Styl PILOT](https://rozetka.com.ua/ua/pilot_r_hr_le_a/p176458/)
+Подобається, але не всім підходить по висоті та по ширині.
+
 # Место для ссылок на ваши статьи. 
 
   * ![](https://rtfm.co.ua/wp-content/uploads/2019/10/rtfm-logo-small-1.jpg) RTFM.CO.UA [Okta: интеграция с G-Suite — provisioning, импорт и экспорт пользователей](https://rtfm.co.ua/okta-integraciya-s-g-suite-provisioning-import-i-eksport-polzovatelej/)
